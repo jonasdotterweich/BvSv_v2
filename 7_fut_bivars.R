@@ -94,7 +94,7 @@ BIO19  <- bioc$wc2_19
 biobrick <- brick(BIO3, BIO7, BIO15, BIO19)
 
 ER_aridityIndexThornthwaite <- all$aridityIndexThornthwaite
-ER_growingDegDays5  <- all$growingDegDays0
+ER_growingDegDays5  <- all$growingDegDays5
 
 ER_PETDriestQuarter  <- all$PETDriestQuarter
 ER_PETWettestQuarter  <- all$PETWettestQuarter
